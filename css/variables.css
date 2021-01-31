@@ -1,0 +1,14 @@
+/***** VARIABLES *****/
+
+:root {
+    --police1: roboto;
+
+    --couleurBlanc: #fff;
+    --couleurBlancCreme: #fffdfd;    
+    --couleurNoir: rgb(22, 22, 22);
+    --couleurGrisClair: #4e4e4e;
+    --couleurGrisFonce: #313031;
+    --couleurRouge: #ed1c24;  
+    
+    --blocShadow: -4px 4px 4px -4px rgba(0,0,0,0.20); 
+}

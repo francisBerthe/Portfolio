@@ -1,1 +1,48 @@
 /* MENU */
+.container-page {
+    width: 100%;
+    max-width: 100%;
+    box-shadow: var(--blocShadow);
+}
+
+.container-screen {
+    width: 100%;
+    max-width: 1440px;
+    margin: auto;
+}
+
+nav {
+    width: 100%;
+    height: 50px;
+    padding: 0 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title-home {
+    font-size: 1.6em;
+    font-family: var(--police1);
+    color: var(--couleurNoir);
+    display: flex;
+}
+
+.menu-bloc {
+    color: var(--couleurNoir);
+    display: flex;
+}
+
+.item-menu {
+    width: 7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fas {
+    font-size: 1.2em;
+    margin: 0 .25rem 0 0;
+}
+
+
+
